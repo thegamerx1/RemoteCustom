@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+	<row>
+		<button text="Lock Off" ontap="locko" />
+	</row>
+	<row>
+		<button text="Screens on" ontap="screenson" />
+		<button text="Screens off" ontap="screensoff" />
+	</row>
+	<row>
+		<button text="Anime mode" ontap="animexd" />
+	</row>
+</layout>
